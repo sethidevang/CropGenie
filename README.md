@@ -15,7 +15,6 @@ Given key input parameters such as:
 - 🌱 Nitrogen (N)
 - 🧪 Phosphorus (P)
 - 🔬 pH Level
-- 🏜️ Soil Type (Sand/Loamy/Clay)
 
 **CropGenie** uses a trained machine learning model to recommend the best crop to grow in that environment.
 
